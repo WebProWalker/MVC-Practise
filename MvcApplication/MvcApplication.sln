@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplication", "MvcApplication\MvcApplication.csproj", "{6651207C-9C99-472C-B304-6E7BD98897F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplication.Tests", "MvcApplication.Tests\MvcApplication.Tests.csproj", "{0F38336B-253F-4870-8E1C-7FF49B4274DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6651207C-9C99-472C-B304-6E7BD98897F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6651207C-9C99-472C-B304-6E7BD98897F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6651207C-9C99-472C-B304-6E7BD98897F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6651207C-9C99-472C-B304-6E7BD98897F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F38336B-253F-4870-8E1C-7FF49B4274DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F38336B-253F-4870-8E1C-7FF49B4274DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F38336B-253F-4870-8E1C-7FF49B4274DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F38336B-253F-4870-8E1C-7FF49B4274DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
